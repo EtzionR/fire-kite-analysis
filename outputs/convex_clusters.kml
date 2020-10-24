@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="56957">
+        <Style id="56962">
+            <PolyStyle id="56963">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56968">
+            <PolyStyle id="56969">
+                <color>b300803c</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56974">
+            <PolyStyle id="56975">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56980">
+            <PolyStyle id="56981">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56986">
+            <PolyStyle id="56987">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56992">
+            <PolyStyle id="56993">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="56998">
+            <PolyStyle id="56999">
+                <color>b30091ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57004">
+            <PolyStyle id="57005">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57010">
+            <PolyStyle id="57011">
+                <color>b30062ff</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57016">
+            <PolyStyle id="57017">
+                <color>b3006100</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57022">
+            <PolyStyle id="57023">
+                <color>b300ebdf</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57028">
+            <PolyStyle id="57029">
+                <color>b300803c</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57034">
+            <PolyStyle id="57035">
+                <color>b300ebdf</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Style id="57040">
+            <PolyStyle id="57041">
+                <color>b300a16b</color>
+                <colorMode>normal</colorMode>
+                <fill>1</fill>
+                <outline>1</outline>
+            </PolyStyle>
+        </Style>
+        <Placemark id="56959">
+            <name>ניר יצחק</name>
+            <styleUrl>#56962</styleUrl>
+            <Polygon id="56958">
+                <outerBoundaryIs>
+                    <LinearRing id="56960">
+                        <coordinates>34.37616035771794,31.24897399104536,0.0 34.37191735411572,31.26916699115029,0.0 34.334981326534674,31.250343991979786,0.0 34.32113931663157,31.23913899227448,0.0 34.32238331761908,31.232288992246556,0.0 34.331849324684605,31.218098992040318,0.0 34.33982933054026,31.21926099186639,0.0 34.35598134258929,31.222802991506114,0.0 34.37610435769549,31.247573991046334,0.0 34.37616035771794,31.24897399104536,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56965">
+            <name>כרמיה</name>
+            <styleUrl>#56968</styleUrl>
+            <Polygon id="56964">
+                <outerBoundaryIs>
+                    <LinearRing id="56966">
+                        <coordinates>34.531884485696814,31.61935898693207,0.0 34.50913646453448,31.611417987618307,0.0 34.51544947063116,31.59946598742517,0.0 34.52213947709732,31.589471987219195,0.0 34.55655151049857,31.57575698613696,0.0 34.543247496668975,31.615526986576384,0.0 34.531884485696814,31.61935898693207,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56971">
+            <name>אור הנר</name>
+            <styleUrl>#56974</styleUrl>
+            <Polygon id="56970">
+                <outerBoundaryIs>
+                    <LinearRing id="56972">
+                        <coordinates>34.611397566854514,31.556888984283326,0.0 34.60789856297975,31.564733984409454,0.0 34.59803355272456,31.562817984750538,0.0 34.59152654620305,31.554103984969395,0.0 34.587193541950214,31.545624985112777,0.0 34.59680355185587,31.545620984785177,0.0 34.604090559419994,31.546744984533944,0.0 34.60881056435455,31.54753598436974,0.0 34.611397566854514,31.556888984283326,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56977">
+            <name>רעים</name>
+            <styleUrl>#56980</styleUrl>
+            <Polygon id="56976">
+                <outerBoundaryIs>
+                    <LinearRing id="56978">
+                        <coordinates>34.455378420763,31.38086298907053,0.0 34.457524422439654,31.39128598901526,0.0 34.45216741767371,31.39827798916323,0.0 34.44115540830944,31.394427989457277,0.0 34.44282540983645,31.38837298941101,0.0 34.44454241139783,31.382877989363525,0.0 34.455378420763,31.38086298907053,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56983">
+            <name>ארז</name>
+            <styleUrl>#56986</styleUrl>
+            <Polygon id="56982">
+                <outerBoundaryIs>
+                    <LinearRing id="56984">
+                        <coordinates>34.551973506378516,31.558639986276873,0.0 34.569903524616436,31.53725898568637,0.0 34.570112524494746,31.551987985685635,0.0 34.56835352261721,31.557181985745643,0.0 34.5615295157171,31.562008985970408,0.0 34.55998451418436,31.56215498602056,0.0 34.55905451327088,31.56189398605054,0.0 34.5546815089972,31.560338986190803,0.0 34.551973506378516,31.558639986276873,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56989">
+            <name>יכיני</name>
+            <styleUrl>#56992</styleUrl>
+            <Polygon id="56988">
+                <outerBoundaryIs>
+                    <LinearRing id="56990">
+                        <coordinates>34.59217654818237,31.498265984922753,0.0 34.58912654532886,31.485774985021234,0.0 34.589417545736076,31.481166985009338,0.0 34.59657255317112,31.47988398476403,0.0 34.59826555492189,31.480354984705915,0.0 34.60146255822859,31.481635984595943,0.0 34.60031855687366,31.48832198463854,0.0 34.59217654818237,31.498265984922753,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="56995">
+            <name>כיסופים</name>
+            <styleUrl>#56998</styleUrl>
+            <Polygon id="56994">
+                <outerBoundaryIs>
+                    <LinearRing id="56996">
+                        <coordinates>34.41707638830501,31.3869079900805,0.0 34.41700738785427,31.41072999008916,0.0 34.39862437306068,31.403916990546097,0.0 34.39722137194782,31.403359990580313,0.0 34.38951536596538,31.39447399076512,0.0 34.37657635608955,31.377725991069045,0.0 34.3732313537073,31.36393699114396,0.0 34.377945357431976,31.359393991031954,0.0 34.38583436367005,31.35532299084312,0.0 34.40157537619261,31.35610899046017,0.0 34.41232238477332,31.36469699019442,0.0 34.41312838539456,31.367011990174763,0.0 34.41553938719251,31.377823990116887,0.0 34.41707638830501,31.3869079900805,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57001">
+            <name>יער שוקדה</name>
+            <styleUrl>#57004</styleUrl>
+            <Polygon id="57000">
+                <outerBoundaryIs>
+                    <LinearRing id="57002">
+                        <coordinates>34.52327748145946,31.4292479871244,0.0 34.51893847730206,31.431908987257664,0.0 34.511147470053174,31.42895598749169,0.0 34.50977346879467,31.427820987532417,0.0 34.50958246863541,31.426887987537818,0.0 34.51020246923774,31.42565998751881,0.0 34.5146464734443,31.42311998738436,0.0 34.52035247885579,31.421173987210707,0.0 34.52230548060881,31.425806987152846,0.0 34.52327748145946,31.4292479871244,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57007">
+            <name>בארי</name>
+            <styleUrl>#57010</styleUrl>
+            <Polygon id="57006">
+                <outerBoundaryIs>
+                    <LinearRing id="57008">
+                        <coordinates>34.45200041673081,31.44316698918191,0.0 34.443509409736784,31.427428989404845,0.0 34.44938941490727,31.419388989244872,0.0 34.45135541663175,31.41749998919124,0.0 34.45930742354986,31.415764988974267,0.0 34.48419644555431,31.41796998827761,0.0 34.49421245452635,31.4236789879903,0.0 34.4951934550666,31.44198598796809,0.0 34.49431545409999,31.450507987996637,0.0 34.46408342698765,31.456055988855883,0.0 34.45833342205466,31.451684989012456,0.0 34.45200041673081,31.44316698918191,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57013">
+            <name>מפלסים</name>
+            <styleUrl>#57016</styleUrl>
+            <Polygon id="57012">
+                <outerBoundaryIs>
+                    <LinearRing id="57014">
+                        <coordinates>34.564340519764066,31.505531985855626,0.0 34.5575835129105,31.51219398607782,0.0 34.55234150782477,31.508684986245026,0.0 34.55183650734657,31.50788698626087,0.0 34.55091050649269,31.505397986289502,0.0 34.55043150605151,31.504103986304276,0.0 34.551064506722476,31.501761986283128,0.0 34.5581125137229,31.499022986055376,0.0 34.564340519764066,31.505531985855626,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57019">
+            <name>ניר עם</name>
+            <styleUrl>#57022</styleUrl>
+            <Polygon id="57018">
+                <outerBoundaryIs>
+                    <LinearRing id="57020">
+                        <coordinates>34.55591951119516,31.515526986132848,0.0 34.568224523556424,31.50951998573002,0.0 34.57529253060306,31.51240598549764,0.0 34.58114253644151,31.516580985304092,0.0 34.58378353893384,31.52527498521908,0.0 34.58384553895462,31.527116985217777,0.0 34.57904853401612,31.529540985379743,0.0 34.57496752985623,31.530836985516213,0.0 34.57193552682382,31.529846985616214,0.0 34.5637535187448,31.525074985882824,0.0 34.55941951450308,31.522341986022568,0.0 34.55591951119516,31.515526986132848,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57025">
+            <name>עלומים</name>
+            <styleUrl>#57028</styleUrl>
+            <Polygon id="57024">
+                <outerBoundaryIs>
+                    <LinearRing id="57026">
+                        <coordinates>34.51077546905368,31.461504987514623,0.0 34.50214146103943,31.46236998777149,0.0 34.49784945715713,31.45935298789656,0.0 34.495382454936156,31.457577987968037,0.0 34.49998945925914,31.452242987831266,0.0 34.521963479959425,31.441689987169184,0.0 34.527996485673924,31.44249498698443,0.0 34.519813477700865,31.452817987238813,0.0 34.515443473497434,31.45746198737286,0.0 34.51077546905368,31.461504987514623,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57031">
+            <name>כפר עזה</name>
+            <styleUrl>#57034</styleUrl>
+            <Polygon id="57030">
+                <outerBoundaryIs>
+                    <LinearRing id="57032">
+                        <coordinates>34.5125844705206,31.472456987464394,0.0 34.53623849315563,31.462481986736268,0.0 34.537164494016174,31.46399398670791,0.0 34.54527850139745,31.486582986461258,0.0 34.53869849495518,31.489577986669786,0.0 34.534536490918,31.491053986800317,0.0 34.522260479290054,31.48804698717739,0.0 34.5125844705206,31.472456987464394,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+        <Placemark id="57037">
+            <name>נחל עוז</name>
+            <styleUrl>#57040</styleUrl>
+            <Polygon id="57036">
+                <outerBoundaryIs>
+                    <LinearRing id="57038">
+                        <coordinates>34.490420450233316,31.4673709881155,0.0 34.509190467372186,31.471841987565742,0.0 34.50698546524234,31.47606298763296,0.0 34.50167846023365,31.481653987792,0.0 34.49803345686473,31.4829429878995,0.0 34.49295045225096,31.48181898804727,0.0 34.48772244757241,31.47886098819727,0.0 34.48518244532034,31.476928988269492,0.0 34.48299444342581,31.47318198833076,0.0 34.485698445922885,31.469679988252224,0.0 34.490420450233316,31.4673709881155,0.0</coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>
+    </Document>
+</kml>
