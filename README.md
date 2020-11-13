@@ -43,31 +43,29 @@ Based on the results we obtained in the previous section, we will propose conclu
 ## libraries
 The code uses the following libraries in Python:
 
-**matplotlib**
+* **matplotlib**
 
-**shapefile**
+* **simplekml**
 
-**simplekml**
+* **shapely**
 
-**shapely**
+* **pandas**
 
-**pandas**
+* **random**
 
-**random**
+* **numpy**
 
-**numpy**
+* **scipy**
 
-**scipy**
-
-**utm**
+* **utm**
 
 In addition, the project includes the use of three packages built by us:
 
-[**cumulative-heatmap-calculation**](https://github.com/EtzionR/cumulative-heatmap-calculation)
+* [**cumulative-heatmap-calculation**](https://github.com/EtzionR/cumulative-heatmap-calculation)
 
-[**Clustering-by-Silhouette**](https://github.com/EtzionR/Clustering-by-Silhouette)
+* [**Clustering-by-Silhouette**](https://github.com/EtzionR/Clustering-by-Silhouette)
 
-[**create-sector-shape-KML-file**](https://github.com/EtzionR/create-sector-shape-KML-file)
+* [**create-sector-shape-KML-file**](https://github.com/EtzionR/create-sector-shape-KML-file)
 
 
 ## application
