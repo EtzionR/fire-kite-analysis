@@ -21,5 +21,8 @@ source : [IMS](https://ims.data.gov.il/ims/7)
 
 ## Descreption
 The work flow is divided into three main stages:
-1) **Preliminary processing:** Processing information and converting data so that it is convenient to work with. We will also consolidate the data tables so that we can make convenient use of them. Finally, we will present some statistics and basic information about the data. 
+1) **Preliminary Processing:** Processing information and converting data so that it possible to work with it. We will also merged the data tables, so we can analyze them. Finally, we will present some statistics and basic information about the data. 
+2) **Data Processing:** We will use a number of tools from the field of data mining, in order to: 
+  a) point out the **Main Targets** of the Fire-Kites launchers in Israel area. 
+  b) Identify the **Launched Areas** of the Fire-Kites from Gaza Strip.
 
