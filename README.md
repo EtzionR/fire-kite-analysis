@@ -40,6 +40,8 @@ In order to do this, we will use a number of codes developed by us:
 ### 3) Summary, Conclusions & Export results:
 Based on the results we obtained in the previous section, we will propose conclusions about the data studied. We will also export and save the results, so that we can perform exploration on them. You can find the outputs here [**outputs**](https://github.com/EtzionR/fire-kite-analysis/tree/main/outputs) and as Google-MyMaps page here: [**Fire Kite Map**](https://www.google.com/maps/d/u/0/viewer?mid=1msfnGWnLRlIY-xA4YnbLac8vKAJpjb-7&usp=sharing)
 
+![heatmap](https://github.com/EtzionR/fire-kite-analysis/blob/main/plots/sectors_heatmap.png)
+
 ## libraries
 The code uses the following libraries in Python:
 
