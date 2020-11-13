@@ -20,13 +20,12 @@ Meteorological records in the required date range, from the **Israel Meteorologi
 source : [IMS](https://ims.data.gov.il/ims/7)
 
 ## Descreption
-Full documentation of the work process can be found in the Python notebook: [**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb)
+The work flow is divided into three main stages. Full documentation of the work process can be found in the Python notebook: [**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb)
 
-The work flow is divided into three main stages:
-### Preliminary Processing:
+### 1) Preliminary Processing:
 Processing information and converting data so that it possible to work with it. We will also merged the data tables, so we can analyze them. Finally, we will present some statistics and basic information about the data. 
 
-### Data Processing:
+### 2) Data Processing:
 We will use a number of tools from the field of data mining, in order to:
 * point out the **Main Targets** of the Fire-Kites launchers in Israel area. 
 * Identify the **Launched Areas** of the Fire-Kites from Gaza Strip.
@@ -38,6 +37,6 @@ In order to do this, we will use a number of codes developed by us:
 
 * **create Sector-Shape polygons:** Code that allows calculation of sector-polygon, based on parameters of starting point, angle, standard deviation of the angle and distance. We will use it to calculate the estimated area from which each Fire-Kite was launched. Full documentation can be seen here: [**create-sector-shape-KML-file**](https://github.com/EtzionR/create-sector-shape-KML-file)
 
-### Summary, Conclusions & Export results:
+### 3) Summary, Conclusions & Export results:
 
 
