@@ -40,3 +40,43 @@ In order to do this, we will use a number of codes developed by us:
 ### 3) Summary, Conclusions & Export results:
 Based on the results we obtained in the previous section, we will propose conclusions about the data studied. We will also export and save the results, so that we can perform exploration on them. You can find the outputs here [**outputs**](https://github.com/EtzionR/fire-kite-analysis/tree/main/outputs) and as Google-MyMaps page here: [**Fire Kite Map**](https://www.google.com/maps/d/u/0/viewer?mid=1msfnGWnLRlIY-xA4YnbLac8vKAJpjb-7&usp=sharing)
 
+## libraries
+The code uses the following libraries in Python:
+
+**matplotlib**
+
+**shapefile**
+
+**simplekml**
+
+**shapely**
+
+**pandas**
+
+**random**
+
+**numpy**
+
+**scipy**
+
+**utm**
+
+In addition, the project includes the use of three packages built by us:
+
+[**cumulative-heatmap-calculation**](https://github.com/EtzionR/cumulative-heatmap-calculation)
+
+[**Clustering-by-Silhouette**](https://github.com/EtzionR/Clustering-by-Silhouette)
+
+[**create-sector-shape-KML-file**](https://github.com/EtzionR/create-sector-shape-KML-file)
+
+
+## application
+The entire research process can be found in the project's Python notebook:
+
+[**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb)
+
+## License
+MIT © [**Etzion Harari**](https://github.com/EtzionR) & [**Asher Chazan**](https://github.com/ashercha)
+
+
+
