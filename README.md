@@ -38,9 +38,5 @@ In order to do this, we will use a number of codes developed by us:
 * **create Sector-Shape polygons:** Code that allows calculation of sector-polygon, based on parameters of starting point, angle, standard deviation of the angle and distance. We will use it to calculate the estimated area from which each Fire-Kite was launched. Full documentation can be seen here: [**create-sector-shape-KML-file**](https://github.com/EtzionR/create-sector-shape-KML-file)
 
 ### 3) Summary, Conclusions & Export results:
-Based on the results we obtained in the previous section, we will propose conclusions about the data studied. We will also export and save the results, so that we can perform exploration on them.
-
-
-https://www.google.com/maps/d/u/0/edit?mid=1msfnGWnLRlIY-xA4YnbLac8vKAJpjb-7&usp=sharing
-
+Based on the results we obtained in the previous section, we will propose conclusions about the data studied. We will also export and save the results, so that we can perform exploration on them. You can find the outputs here [**outputs**](https://github.com/EtzionR/fire-kite-analysis/tree/main/outputs) and as Google-MyMaps page here: [**Fire Kite Map**](https://www.google.com/maps/d/u/0/viewer?mid=1msfnGWnLRlIY-xA4YnbLac8vKAJpjb-7&usp=sharing)
 
