@@ -21,9 +21,16 @@ source : [IMS](https://ims.data.gov.il/ims/7)
 
 ## Descreption
 The work flow is divided into three main stages:
-### **Preliminary Processing:** Processing information and converting data so that it possible to work with it. We will also merged the data tables, so we can analyze them. Finally, we will present some statistics and basic information about the data. 
+### **Preliminary Processing:** 
+Processing information and converting data so that it possible to work with it. We will also merged the data tables, so we can analyze them. Finally, we will present some statistics and basic information about the data. 
+
 ### **Data Processing:** 
 We will use a number of tools from the field of data mining, in order to:
   * point out the **Main Targets** of the Fire-Kites launchers in Israel area. 
   * Identify the **Launched Areas** of the Fire-Kites from Gaza Strip.
+In order to do this, we will use a number of codes developed by us:
+* **Cumulative HeatMap Calculation:** Code that allows very fast calculation of **heatmap** from given points. Full documentation can be seen here: **https://github.com/EtzionR/cumulative-heatmap-calculation**
+* **Clustering by Silhouette:** Code that allows clustering according to the parameter that will return the optimal result (according to the **Silhouette Score**). Full documentation can be seen here: **https://github.com/EtzionR/Clustering-by-Silhouette**
+* **jk: ** . Full documentation can be seen here: **https://github.com/EtzionR/create-sector-shape-KML-file**
+
 
