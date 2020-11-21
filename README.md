@@ -74,7 +74,7 @@ In addition, the project includes the use of three packages built by us:
 
 
 ## application
-The entire research process can be found in the project's Python notebook: [**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb) or here [**fire_kite_analysis.pdf**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.pdf)
+The entire research process can be found in the project's Python notebook: [**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb).
 
 
 ## License
