@@ -19,7 +19,7 @@ Meteorological records in the required date range, from the **Israel Meteorologi
 
 source : [IMS](https://ims.data.gov.il/ims/7)
 
-## Descreption
+## Description
 The work flow is divided into three main stages. Full documentation of the work process can be found in the Python notebook: [**fire_kite_analysis.ipynb**](https://github.com/EtzionR/fire-kite-analysis/blob/main/fire_kite_analysis.ipynb)
 
 ### 1) Preliminary Processing:
